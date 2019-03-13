@@ -1,0 +1,9 @@
+C:\Users\hkarasoy\Desktop\RecipeApi\Objects\bin\Debug\netcoreapp2.2\Objects.deps.json
+C:\Users\hkarasoy\Desktop\RecipeApi\Objects\bin\Debug\netcoreapp2.2\Objects.dll
+C:\Users\hkarasoy\Desktop\RecipeApi\Objects\obj\Debug\netcoreapp2.2\Objects.csproj.CoreCompileInputs.cache
+C:\Users\hkarasoy\Desktop\RecipeApi\Objects\obj\Debug\netcoreapp2.2\Objects.AssemblyInfoInputs.cache
+C:\Users\hkarasoy\Desktop\RecipeApi\Objects\obj\Debug\netcoreapp2.2\Objects.AssemblyInfo.cs
+C:\Users\hkarasoy\Desktop\RecipeApi\Objects\obj\Debug\netcoreapp2.2\Objects.csprojAssemblyReference.cache
+C:\Users\hkarasoy\Desktop\RecipeApi\Objects\bin\Debug\netcoreapp2.2\Objects.pdb
+C:\Users\hkarasoy\Desktop\RecipeApi\Objects\obj\Debug\netcoreapp2.2\Objects.dll
+C:\Users\hkarasoy\Desktop\RecipeApi\Objects\obj\Debug\netcoreapp2.2\Objects.pdb

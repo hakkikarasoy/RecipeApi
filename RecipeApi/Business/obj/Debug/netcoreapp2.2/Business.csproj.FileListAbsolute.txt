@@ -1,0 +1,14 @@
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\bin\Debug\netcoreapp2.2\Objects.dll
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\bin\Debug\netcoreapp2.2\Objects.pdb
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\obj\Debug\netcoreapp2.2\Business.csproj.CoreCompileInputs.cache
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\obj\Debug\netcoreapp2.2\Business.dll
+C:\Users\hkarasoy\Desktop\RecipeApi\Business\obj\Debug\netcoreapp2.2\Business.pdb
